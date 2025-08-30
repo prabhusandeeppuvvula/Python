@@ -2,6 +2,7 @@
 
 # Creating file
 nano deploy.py
+Paste the python code
 
 # Make the script executable
 chmod +x deploy.py
