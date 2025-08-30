@@ -1,5 +1,8 @@
 # Python
+
+# Creating file
 nano deploy.py
+
 # Make the script executable
 chmod +x deploy.py
 
