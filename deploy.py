@@ -6,7 +6,7 @@ import os
 # ------------------------
 # Configuration
 # ------------------------
-GIT_REPO = "https://github.com/<USERNAME>/Terraform.git"
+GIT_REPO = "https://github.com/krishnamaram3/portfolio.git"
 CLONE_DIR = os.path.expanduser("~/portfolio")
 
 # ------------------------
